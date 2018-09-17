@@ -1,0 +1,31 @@
+{
+  "name": "auto-retryer",
+  "version": "1.0.0",
+  "description": "extend the automatic retry function for the Promise function",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjmmc/auto-retryer.git"
+  },
+  "keywords": [
+    "auto-retry",
+    "auto-retryer",
+    "promise-extend",
+    "retry",
+    "promise-retry",
+    "retry-library"
+  ],
+  "author": "hjmmc <haojie.liu@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjmmc/auto-retryer/issues"
+  },
+  "homepage": "https://github.com/hjmmc/auto-retryer#readme"
+}
